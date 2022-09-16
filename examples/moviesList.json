@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "title": "Movie 1",
+        "director": "Director 1",
+        "releaseDate": "2022-1-1"
+    },
+    {
+        "id": "2",
+        "title": "Movie 2",
+        "director": "Director 2",
+        "releaseDate": "2022-2-2"
+    },
+    {
+        "id": "3",
+        "title": "Movie 3",
+        "director": "Director 3",
+        "releaseDate": "2022-3-3"
+    },
+    {
+        "id": "4",
+        "title": "Movie 4",
+        "director": "Director 4",
+        "releaseDate": "2022-4-4"
+    }
+]
